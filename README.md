@@ -2,4 +2,4 @@
 
 **Instructor: Amy Lee**
 
-**Developers: Michaela Palmer, Yoonhee Choi**
+**Developers: Michaela Palmer, Yoonhee Choi, Maya Shen**
