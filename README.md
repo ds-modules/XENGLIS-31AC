@@ -1,4 +1,4 @@
-# XENGLIS-31AC
+# ENGLISH R1A: Chinatown and the Culture of Exclusion
 
 **Instructor: Amy Lee**
 
