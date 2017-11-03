@@ -1,0 +1,12 @@
+"Name","Full Name","Summary Level","Federal Information Processing System Code","State Code","County Code","Total Population","Total Population","White","Black","Other","% White","% Black","% Other"
+Geo_Name,Geo_QName,Geo_SUMLEV,Geo_FIPS,Geo_state,Geo_county,SE_T001_001,SE_T005_001,SE_T005_002,SE_T005_003,SE_T005_004,PCT_SE_T005_002,PCT_SE_T005_003,PCT_SE_T005_004
+"A0005","Census Tract A0005, San Francisco County, California","140","06075A0005000",,"075",4775,4775,2893,89,1793,60.59,1.86,37.55
+"A0006","Census Tract A0006, San Francisco County, California","140","06075A0006000",,"075",4547,4547,2431,104,2012,53.46,2.29,44.25
+"A0007","Census Tract A0007, San Francisco County, California","140","06075A0007000",,"075",5716,5716,3027,63,2626,52.96,1.1,45.94
+"A0008","Census Tract A0008, San Francisco County, California","140","06075A0008000",,"075",5106,5106,4681,34,391,91.68,0.67,7.66
+"A0009","Census Tract A0009, San Francisco County, California","140","06075A0009000",,"075",5647,5647,4307,48,1292,76.27,0.85,22.88
+"A0010","Census Tract A0010, San Francisco County, California","140","06075A0010000",,"075",5209,5209,4795,13,401,92.05,0.25,7.7
+"A0013","Census Tract A0013, San Francisco County, California","140","06075A0013000",,"075",4261,4261,768,10,3483,18.02,0.23,81.74
+"A0014","Census Tract A0014, San Francisco County, California","140","06075A0014000",,"075",4264,4264,57,18,4189,1.34,0.42,98.24
+"A0015","Census Tract A0015, San Francisco County, California","140","06075A0015000",,"075",2786,2786,240,43,2503,8.61,1.54,89.84
+"A0016","Census Tract A0016, San Francisco County, California","140","06075A0016000",,"075",3613,3613,1495,421,1697,41.38,11.65,46.97
