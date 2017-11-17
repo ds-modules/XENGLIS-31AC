@@ -1,5 +1,7 @@
 # ENGLISH R1A: Chinatown and the Culture of Exclusion
 
+[Notebook 1](http://datahub.berkeley.edu/user-redirect/interact?account=ds-modules&repo=XENGLIS-31AC&branch=master&path=01-Chinatowns.ipynb)
+
 **Instructor: Amy Lee**
 
 **Developers: Michaela Palmer, Maya Shen, Cynthia Leu, Chris Cheung**
