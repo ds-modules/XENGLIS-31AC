@@ -1,5 +1,4 @@
 # ENGLISH R1A: Chinatown and the Culture of Exclusion
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ds-modules/XENGLIS-31AC/master)
 
 [Notebook 1](http://datahub.berkeley.edu/user-redirect/interact?account=ds-modules&repo=XENGLIS-31AC&branch=master&path=01-Chinatowns.ipynb)
 
